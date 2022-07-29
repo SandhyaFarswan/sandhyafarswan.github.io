@@ -97,10 +97,10 @@
     },
     {
       "organization": "Regional Remote Sensing Centre - North, NRSC, ISRO",
-      "website": "",
+      "website": "https://www.nrsc.gov.in/aboutus_campus_nrscrc/rrsc_north?language_content_entity=en",
       "position": "M.Sc dissertation work",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2011-09",
+      "endDate": "2011-10",
       "summary": "Indian Institute of Remote Sensing (IIRS) campus, Dehradun, IN",
       "highlights": [
         "Submitted Thesis title- DEM Generation Using Satellite Stereo Data for a part of Patna District, Bihar",
@@ -113,31 +113,31 @@
     {
       "title": "Assessment of rainwater harvesting sites in a part of North- West Delhi, India using Geomatic tools",
       "date": "2019",
-      "journal": "Environmental Earth Sciences",
+      "awardee": "Environmental Earth Sciences",
       "summary": "Sandhya Farswan, Vishwakarma, C.A., Mina, U., Kumar, V., Mukherjee, S. 2019 ‘Assessment of rainwater harvesting sites in a part of North- West Delhi, India using Geomatic tools’. Environmental Earth Sciences, 78:329. DOI: 10.1007/s12665-019-8332-y."
     },
     {
       "title": "Landfill: Solution or a Bigger Problem to the Environment",
       "date": "2019",
-      "journal": "Geodiversity and Impact on Environment",
+      "awardee": "Geodiversity and Impact on Environment",
       "summary": "Singh, S., Sandhya Farswan, Meena, R., Ramanathan, AL. (2019) Landfill: Solution or a Bigger Problem to the Environment. ENVIS: Geodiversity & Impact on Environment, Vol-24 (2), 2019 (ISSN: 0974-1364)."
     },
     {
       "title": "An Indian Perspective of Reducing Emission from Deforestation and Forest Degradation (REDD+)",
       "date": "2018",
-      "journal": "Geodiversity and Impact on Environment",
+      "awardee": "Geodiversity and Impact on Environment",
       "summary": "Singh, S., Sandhya Farswan, Mina, U., Ramanathan, AL. (2018) An Indian Perspective of Reducing Emission from Deforestation and Forest Degradation (REDD+). ENVIS: Geodiversity & Impact on Environment, Vol-23 (3), 2018 (ISSN: 0974-1364)."
     },
      {
       "title": "Waste and Waste Management in India",
       "date": "2017",
-      "journal": "Geodiversity and Impact on Environment",
+      "awardee": "Geodiversity and Impact on Environment",
       "summary": "Singh, S., Sandhya Farswan, Mina, U., Ramanathan, AL. (2017) Waste and Waste Management in India. ENVIS: Geodiversity & Impact on Environment, Vol-22 (4), 2017 (ISSN: 0974-1364)."
     },
     {
       "title": "A study of trace element contamination using multivariate statistical techniques and health risk assessment in groundwater of Chhaprola Industrial Area, Gautama Buddha Nagar, Uttar Pradesh, India",
       "date": "2016",
-      "journal": "Chemosphere",
+      "awardee": "Chemosphere",
       "summary": "Kumar, M., Ramanathan, AL., Tripathi, R., Sandhya Farswan, Kumar, D., Bhattacharya, P. (2016) A study of trace element contamination using multivariate statistical techniques and health risk assessment in groundwater of Chhaprola Industrial Area, Gautama Buddha Nagar, Uttar Pradesh, India. Chemosphere. 166:135-145. DOI 10.1016/j.chemosphere.2016.09.086."
     }
   ],
