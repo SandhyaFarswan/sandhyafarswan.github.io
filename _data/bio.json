@@ -1,113 +1,135 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Sandhya Farswan",
+    "label": "Information Officer",
+    "picture": "https://github.com/sandhyafarswan.png",
+    "email": "farswansandhya@gmail.com",
+    "phone": "+91 8448418696",
+    "website": "https://github.com/SandhyaFarswan/sandhyafarswan.github.io",
+    "summary": "Hi! I’m a geospatial analyst and working for Environmental Information System (ENVIS) scheme by Ministry of Environment, Forest & Climate Change (MoEF&CC) at School of Environmental Sciences, Jawaharlal Nehru University, India",
+    "location": { "address": "JNU New Campus", "postalCode": "110067", "city": "New Delhi", "countryCode": "IN", "region": "Delhi" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sandhyafarswan", "url": "http://github.com/sandhyafarswan" },
+      { "network": "linkedin", "username": "Sandhya Farswan", "url": "http://linkedin.com/in/sandhya-farswan-21a80135" },
+      { "network": "twitter", "username": "SandhyaFarswan", "url": "http://twitter.com/SandhyaFarswan" },
+      { "network": "instagram", "username": "sun.farswan", "url": "http://instagram.com/sun.farswan" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Remote Sensing" },
+    { "name": "Geospatial Science" },
+    { "name": "GIS" },
+    { "name": "Sustainable Environment" },
+    { "name": "Climate Change" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "GIS Software",
+      "keywords": [ "ESRI ArcGIS 10.2", "QGIS" ]
+    },
+     {
+      "name": "Remote Sensing Software",
+      "keywords": [ "ERDAS Imagine 2014", "LPS Manager 2011", "Google Earth pro", "Google Earth engine", "ESA SNAP", "ENVI" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "statistical computing & graphics",
+      "keywords": [ "R studio (beginner)", "Python (beginner)", "Adobe Illustrator (beginner)" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Hemwati Nandan Bahuguna Garhwal University, Uttarakhand, IN",
+      "area": "Remote Sensing and GIS applications",
+      "studyType": "M.Sc.",
+      "startDate": "2009-09",
+      "endDate": "2012-05",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "School of Environmental Sciences, ENVIS",
+      "position": "Information Officer",
+      "website": "http://jnuenvis.nic.in/",
+      "startDate": "2015-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Working on Thematic area and mandates- Geodiversity and Impact on Environment",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Geospatial data collection, compilation, storage, processing and GIS mapping",
+        "information dissemination of spatial or non-spatial data related to environment and climate change"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Center for the Study of Regional Development (CSRD)",
+      "position": "Junior Research Fellow",
+      "website": "",
+      "startDate": "2012-07",
+      "endDate": "2013-07",
+      "summary": "Study of a river basin in western Himalayan valley",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "GIS mapping of Land use land cover, change detection and geomorphology",
+        "Watershed analysis using DEM dataset"
       ]
     }
   ],
-  "volunteer": [
+  "Internship & Dissertation": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Oil and Natural Gas Corporation Ltd. (ONGC), Remote Sensing & Geomatics division",
+      "website": "https://www.ongcindia.com/",
+      "position": "Summer Trainee/Intern",
+      "startDate": "2011-06",
+      "endDate": "2011-07",
+      "summary": "Summer training (2 months) at KDMIPE Campus, ONGC-Dehradun, IN",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Digital Image Processing of Landsat (ETM+) imagery",
+        "Land use land Cover mapping and Change Detection process"
       ]
     },
     {
-      "organization": "",
+      "organization": "Regional Remote Sensing Centre - North, NRSC, ISRO",
       "website": "",
       "position": "Professional organization involvement",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "M.Sc Dissertation at Indian Institute of Remote Sensing (IIRS) campus, Dehradun, IN",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Thesis title- DEM Generation Using Satellite Stereo Data for a part of Patna District, Bihar",
+        "Generation of IRS-Cartosat-1 Panchromatic Stereo Digital Elevation Model (DEM) dataset",
+        "LPS Manager, Leica Photogrammetric Suite, ERDAS Imagine software used"
       ]
     }
   ],
-  "awards": [
+  "Publication": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Assessment of rainwater harvesting sites in a part of North- West Delhi, India using Geomatic tools",
+      "date": "2019",
+      "journal": "Environmental Earth Sciences",
+      "summary": "Sandhya Farswan, Vishwakarma, C.A., Mina, U., Kumar, V., Mukherjee, S. 2019 ‘Assessment of rainwater harvesting sites in a part of North- West Delhi, India using Geomatic tools’. Environmental Earth Sciences, 78:329. DOI: 10.1007/s12665-019-8332-y."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Landfill: Solution or a Bigger Problem to the Environment",
+      "date": "2019",
+      "journal": "Geodiversity and Impact on Environment",
+      "summary": "Singh, S., Sandhya Farswan, Meena, R., Ramanathan, AL. (2019) Landfill: Solution or a Bigger Problem to the Environment. ENVIS: Geodiversity & Impact on Environment, Vol-24 (2), 2019 (ISSN: 0974-1364)."
+    },
+    {
+      "title": "An Indian Perspective of Reducing Emission from Deforestation and Forest Degradation (REDD+)",
+      "date": "2018",
+      "journal": "Geodiversity and Impact on Environment",
+      "summary": "Singh, S., Sandhya Farswan, Mina, U., Ramanathan, AL. (2018) An Indian Perspective of Reducing Emission from Deforestation and Forest Degradation (REDD+). ENVIS: Geodiversity & Impact on Environment, Vol-23 (3), 2018 (ISSN: 0974-1364)."
+    },
+     {
+      "title": "Waste and Waste Management in India",
+      "date": "2017",
+      "journal": "Geodiversity and Impact on Environment",
+      "summary": "Singh, S., Sandhya Farswan, Mina, U., Ramanathan, AL. (2017) Waste and Waste Management in India. ENVIS: Geodiversity & Impact on Environment, Vol-22 (4), 2017 (ISSN: 0974-1364)."
+    },
+    {
+      "title": "A study of trace element contamination using multivariate statistical techniques and health risk assessment in groundwater of Chhaprola Industrial Area, Gautama Buddha Nagar, Uttar Pradesh, India",
+      "date": "2016",
+      "journal": "Chemosphere",
+      "summary": "Kumar, M., Ramanathan, AL., Tripathi, R., Sandhya Farswan, Kumar, D., Bhattacharya, P. (2016) A study of trace element contamination using multivariate statistical techniques and health risk assessment in groundwater of Chhaprola Industrial Area, Gautama Buddha Nagar, Uttar Pradesh, India. Chemosphere. 166:135-145. DOI 10.1016/j.chemosphere.2016.09.086."
     }
   ],
   "references": [
