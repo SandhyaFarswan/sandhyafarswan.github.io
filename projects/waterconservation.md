@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/SoilTexture geospatial distribution.tiff
 title: "Assessment of rainwater harvesting sites"
 date: 2019
 published: true
