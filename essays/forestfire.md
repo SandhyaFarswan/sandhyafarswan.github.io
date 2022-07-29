@@ -23,7 +23,9 @@ Surface Fire: A fire burning on and above the forest floor and below tree crown.
 Crown Fire: A fire that burns the upper foliage saplings, trunks and shrouds and the crowns of standing timber in conjunction with surface fires. Wind is the major driving factor to expand the crown fire. Crown fires can be classified according to the degree of dependence on the surface fire phase:
 
 (i) Intermittent/Passive crown fire: A fire in which trees’ crown discontinuously burns, but rate of spread is controlled by the surface fire phase.
+
 (ii) Dependent/active crown fire: A fire that advances with a well-defined wall of flame extending from the ground surface to above the crown fuel layer. Probably most crown fires are of this class. Development of an active crown fire requires a substantial surface fire, and thereafter the surface and crown phases spread as a linked unit.
+
 (iii) Running/ independent crown fire: A fire that advances in the crown fuel layer only. 
 
 ## Major drivers of forest fire
