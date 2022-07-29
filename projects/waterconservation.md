@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SoilTextureGeospatialDistribution.tiff
+image: img/NDVI.png
 title: "Assessment of rainwater harvesting sites"
 date: 2019
 published: true
