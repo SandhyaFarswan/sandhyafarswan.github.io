@@ -15,7 +15,10 @@ summary: "The study was conducted with an aim to provide practical solution for 
 <div class="text-center p-4">
   <img width="200px" src="../img/NDVI.png" class="img-thumbnail" >
   <img width="200px" src="../img/soiltext.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/singhola.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ghoga.png" class="img-thumbnail" >
+  <img width="200px" src="../img/dhirpur.png" class="img-thumbnail" >
+  <img width="200px" src="../img/studyarea.png" class="img-thumbnail" >
 </div>
 
 This work was done for a pilot project Community-driven Environmentally Sustainable Village Programme (CESVP) - Soil samples were collected from different landform/surface feature/types and analyzed through geo-technical methods; followed by oven-dry and sieve-fraction method for the textural analysis. That helped to understand the feasibility of soil infiltration capability for rainfall runoff and water balance calculation to recharge underground aquifer/groundwater on the basis of the percentage fraction of sand in each sample. Outcome values of soil grain sizes were further analyzed through the statistical software GRADISTAT in which brief outcome of Soil Textural Analysis as Sand:Mud ratio and Silt:Clay ratio helped to get final result. Relative infiltration capacity (high, moderate and low potential area) map generated in ArcGIS software to visualize percolation of groundwater recharge on the final layout. Rooftop capacity mapping using Google Street portal for the rainwater storage capacity and calculated in ArcGIS software to fulfill one of the objectives of groundwater conservation work.
