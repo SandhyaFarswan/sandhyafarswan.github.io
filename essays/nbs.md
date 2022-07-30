@@ -11,6 +11,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/natureday.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/nature.png">
 
 Today on the ocassion of World Nature Conservation Day I would like write about the best holistic approach of Nature based solutions (NbS). We should think why we need to observe these environmental calender days that the United Nations (UN) and other dedicated organisations celebrates respective themes towards the conservation of environment. 2022-2030 have been marked as the Ecological Restoration Deade of the UN, while various initiatives on ecosystem approach to conserve biodiversity been considered for Disaster Risk Reduction (DRR) by Sendai Framework.
 
