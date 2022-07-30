@@ -12,6 +12,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/forestfire.png">
 
+<img width="200px" class="rounded float-start pe-4" src="../img/forest.png">
+
 *Forest fire assessment types - phenological or physiological*
 
 Forest fires are grouped into following main categories on the basis of fuel ignition, flame development and fire spreading behaviour:
