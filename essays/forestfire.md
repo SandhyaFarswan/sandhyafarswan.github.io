@@ -8,15 +8,16 @@ published: true
 labels:
   - Natural Disaster
   - DRR
+  - Wildfire
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/forestfire.png">
 
 <img width="200px" class="rounded float-start pe-4" src="../img/forest.png">
 
-<img width="200px" class="rounded float-start pe-4" src="../img/shorea.png">
+<img class="img-fluid" src="../img/forestfire.png" alt="" />
 
-<img width="200px" class="rounded float-start pe-4" src="../img/pine.png">
+<img class="img-fluid" src="../img/shorea.png" alt="" />
+
+<img class="img-fluid" src="../img/pine.png" alt="" />
 
 *Forest fire assessment types - phenological or physiological*
 
