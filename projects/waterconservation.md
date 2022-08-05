@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/NDVI.png
+image: img/ndvicvr.png
 title: "Assessment of rainwater harvesting sites"
 date: 2019
 published: true
@@ -32,7 +32,7 @@ Softwares used:  ArcGIS, Erdas Imagine, Google earth engine (GEE), R studio, Gra
 
 For more details you can read full article published at the [Environmental Earth Sciences volume 78, Article number: 329 (2019)](https://link.springer.com/article/10.1007/s12665-019-8332-y).
 
-Awareness campaign on water conservation, rainwater harvesting model, environmental and health issues in theses villages and schools were actively organised with students.
 
+Awareness campaign on water conservation, rainwater harvesting model, environmental and health issues in theses villages and schools were actively organised with students.
 <img class="img-fluid" src="../img/awareness.png" alt="" />
 <img class="img-fluid" src="../img/schoolkids.png" alt="" />
