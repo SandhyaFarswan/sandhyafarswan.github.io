@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Sandhya Farswan",
-    "label": "Information Officer, <a href=\"http://jnuenvis.nic.in/">Environmental Information System (ENVIS)</a>",
+    "label": "Information Officer, <a href=\"http://jnuenvis.nic.in/\">Environmental Information System (ENVIS)</a>",
     "picture": "https://github.com/sandhyafarswan.png",
     "email": "farswansandhya@gmail.com",
-    "phone": "+91 8448418696",
-    "website": "https://github.com/SandhyaFarswan/sandhyafarswan.github.io",
+    "phone": "",
+    "website": "https://sandhyafarswan.github.io",
     "summary": "Hi! I’m a geospatial analyst and working for Environmental Information System (ENVIS) scheme by Ministry of Environment, Forest & Climate Change (MoEF&CC) at School of Environmental Sciences, Jawaharlal Nehru University, India",
     "location": { "address": "JNU New Campus", "postalCode": "110067", "city": "New Delhi", "countryCode": "IN" },
     "profiles": [
