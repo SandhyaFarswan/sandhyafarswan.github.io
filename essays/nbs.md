@@ -20,3 +20,6 @@ NbS have been adopted in decision making to reboot human's realtionship with nat
 The younger generation need to adapt NbS and need to promote simple living and sustainable lifestyle so that earth can sustain lifelong for future generation's wellbeing. At the same time on 28 July, 2022, Earth Overshoot Day have been observed worldwide as on this estimated date we humans have consumed more natural resources than earth can produce in whole year of 2022. We are literally living on credit 'ecological debt' untill end of this year and that's a sad news. Earth can't produce natural resources faster than the consuming rate by humans. Declining rate of resources like forest due to deforestation, fishing due to overfishing, food due to wastage of food and intense farming and at last clean Air due to carbon emissions are already used up for this year.
 
 There is need to holistic approach to maintain balance of ecosyatem services tool on economic recovery of world.
+
+<img class="img-fluid" src="../img/WNCD.jpeg" alt="" />
+<img class="img-fluid" src="../img/wncd20.jpeg" alt="" />
