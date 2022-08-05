@@ -13,6 +13,8 @@ summary: "The study was conducted with an aim to provide practical solution for 
 ---
 
 <img class="img-fluid" src="../img/NDVI.png" alt="" />
+<img class="img-fluid" src="../img/ndvis.png" alt="" />
+<img class="img-fluid" src="../img/ndvig.png" alt="" />
 <img class="img-fluid" src="../img/soiltext.png" alt="" />
 <img class="img-fluid" src="../img/singhola.png" alt="" />
 <img class="img-fluid" src="../img/ghoga.png" alt="" />
@@ -29,3 +31,8 @@ Time-series Normalized Difference Vegetation Index (NDVI): (from 1977 to 2017) d
 Softwares used:  ArcGIS, Erdas Imagine, Google earth engine (GEE), R studio, Gradistat v.4.0, Surfer Golden v.16.0.
 
 For more details you can read full article published at the [Environmental Earth Sciences volume 78, Article number: 329 (2019)](https://link.springer.com/article/10.1007/s12665-019-8332-y).
+
+Awareness campaign on water conservation, rainwater harvesting model, environmental and health issues in theses villages and schools were actively organised with students.
+
+<img class="img-fluid" src="../img/awareness.png" alt="" />
+<img class="img-fluid" src="../img/schoolkids.png" alt="" />
