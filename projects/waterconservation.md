@@ -9,15 +9,16 @@ labels:
   - Soil texture analysis
   - Normalized Difference Vegetation Index (NDVI) 1977-2018
   - Rooftop rainwater harvesting potential
-summary: "The study was conducted with an aim to provide practical solution for the groundwater management in villages of the North-West Delhi, India. LANDSAT remote-sensing datasets for the last four decades (1977–2018) were assessed to determine changes in vegetation cover at the selected sites."
+summary: "The study was conducted with an aim to provide practical solution for the groundwater management in villages of the N-W Delhi, India. LANDSAT remote-sensing datasets for the last four decades (1977–2018) were assessed to determine changes in vegetation cover at the selected sites."
 ---
 
+<img class="img-fluid" src="../img/NDVI.png" alt="" />
+<img class="img-fluid" src="../img/soiltext.png" alt="" />
+<img class="img-fluid" src="../img/singhola.png" alt="" />
+<img class="img-fluid" src="../img/ghoga.png" alt="" />
+<img class="img-fluid" src="../img/dhirpur.png" alt="" />
+
 <div class="text-center p-4">
-  <img width="200px" src="../img/NDVI.png" class="img-thumbnail" >
-  <img width="200px" src="../img/soiltext.png" class="img-thumbnail" >
-  <img width="200px" src="../img/singhola.png" class="img-thumbnail" >
-  <img width="200px" src="../img/ghoga.png" class="img-thumbnail" >
-  <img width="200px" src="../img/dhirpur.png" class="img-thumbnail" >
   <img width="200px" src="../img/studyarea.png" class="img-thumbnail" >
 </div>
 
