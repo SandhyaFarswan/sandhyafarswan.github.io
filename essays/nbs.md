@@ -21,5 +21,7 @@ The younger generation need to adapt NbS and need to promote simple living and s
 
 There is need to holistic approach to maintain balance of ecosyatem services tool on economic recovery of world.
 
+Infographics on World Nature Conservation Day - Ecosystem Services & Goods and Steps to Conserve the Nature by me using various sources from internet. Thanks !
+
 <img class="img-fluid" src="../img/WNCD.jpeg" alt="" />
 <img class="img-fluid" src="../img/wncd20.jpeg" alt="" />
