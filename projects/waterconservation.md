@@ -34,5 +34,6 @@ For more details you can read full article published at the [Environmental Earth
 
 
 Awareness campaign on water conservation, rainwater harvesting model, environmental and health issues in theses villages and schools were actively organised with students.
+
 <img class="img-fluid" src="../img/awareness.png" alt="" />
 <img class="img-fluid" src="../img/schoolkids.png" alt="" />
