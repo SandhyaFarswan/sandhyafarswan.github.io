@@ -26,6 +26,6 @@ Full published article can be accessed at-
 
 <a href="https://www.researchgate.net/publication/333246436_An_Indian_Perspective_on_Reducing_Emission_from_Deforestation_and_Forest_Degradation_REDD_ISSN_0974-1364"><img class="img-fluid" style="border:3px solid black" src="/img/reddcvr.png"></a>
 
-The Cover page of Newsletter designed by me on the types of wastes using various sources from google and internet.
+The Cover page of Newsletter designed by me on the aspects of REDD+ using various sources from google and internet.
 
 For more information on the Newsletter, please see the [REDD+](http://jnuenvis.nic.in/newsletters/vol23no32017-18.pdf).
