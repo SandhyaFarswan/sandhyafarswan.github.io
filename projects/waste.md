@@ -12,7 +12,7 @@ labels:
 summary: "This study on waste management in India focuses on the Municipal Solid Waste (MSW) generation in States of India and Per Capita MSW production in 2017"
 ---
 
-Integrated Solid Waste Management (ISWM) with 5 tier approaches is the solution to waste management according to The U.S. Environmental Protection Agency (EPA). In India population and density in cities are major problem to waste managemnt. The study focuses on these concern and data collection done for waste generation in India and dataset's source was Ministry of Statistics and Programme Implementation, Govt. of India in 2017. Maps on Statewise Municipal Solid Waste (MSW) generation and Per Capita Municipal Solid Waste (MSW) production in 2017 created using ArcGIS.
+Integrated Solid Waste Management (ISWM) with 5 tier approaches is the solution to waste management according to The U.S. Environmental Protection Agency (EPA). In India population and density in cities are major problem to waste managemnt. The study focuses on these concern and data collected for waste generation in India and dataset's source was Ministry of Statistics and Programme Implementation, Govt. of India, in 2017. Maps on Statewise Municipal Solid Waste (MSW) generation and Per Capita MSW production in 2017 created using ArcGIS.
 
 <img class="img-fluid" src="/img/waste.png" alt="" />
 <img class="img-fluid" src="/img/wastemap.png" alt="" />
