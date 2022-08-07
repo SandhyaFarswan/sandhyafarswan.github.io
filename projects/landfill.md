@@ -10,10 +10,10 @@ labels:
   - toxic pollutants
   - Contamination
   - Waste
-summary: "The Study focuses on three lanfill sites of Delhi- Bhalswa, Ghazipur and Okhla. These landfill sites are located in highly populated residential sites, near river Yamuna, waterbodies, eco-sensitives areas of Delhi"
+summary: "The Study focuses on three landfill sites of Delhi- Bhalswa, Ghazipur and Okhla. These landfill sites are located in highly populated residential sites, near river Yamuna, waterbodies, eco-sensitives areas of Delhi"
 ---
 
-Ghazipur Landfill Site- This landfill site is tallest (65 meters) among all the landfills of India and located between between waterbodies Yamuna river, Hindon river and Shahadra drain in east Delhi. One lake trilokpuri sanjay lake lies within the buffer zone (see map). Eco-sensitive zones Okhla Bird sanctuary and Kalindi Kunj park also lies near this landfill.
+Ghazipur Landfill Site- This landfill site is tallest (65 meters) among all the landfills of India and located between waterbodies Yamuna river, Hindon river and Shahadra drain in east Delhi. One lake trilokpuri sanjay lake lies within the buffer zone (see map). Eco-sensitive zones Okhla Bird sanctuary and Kalindi Kunj park also lies near this landfill.
 
 <img class="img-fluid" src="/img/landfllg.png" alt="" />
 
