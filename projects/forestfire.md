@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/forestfire.png
-title: "Assessment of forest fires and climate attributes interaction in central Himalayas"
+title: "Assessment of forest fires & climate attributes interaction in the Himalayas"
 date: 2023
 published: true
 labels:
