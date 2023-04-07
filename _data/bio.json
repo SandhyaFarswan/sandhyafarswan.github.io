@@ -67,7 +67,7 @@
         "Working mainly as a GIS specialist for a national scheme - Environmental Information, Awareness, Capacity Building & Livelihood Programme (EIACP), erstwhile ENVIS funded by the MoEF&CC thematic areas/mandates",
         "I am responsible for the geospatial/non-spatial data analysis related matters such as collection, compilation, data gap identification, storage, processing, mapping and information dissemination on environmental parameters and mandates",
         "Facilitate and coordinate with various stakeholders for the primary or secondary data/information/ maps available with relevant government departments that would be used as base information and manage all tasks related to the maintenance, technical aspects and updation of the Geospatial & Non-spatial Database",
-        "Major involvement as one of the management and technical team lead to plan & conduct three NSQF level-6 short term courses of Green Skill Development Programme (GSDP) by MoEF&CC: i. Pollution Monitors: Air & Water, ii. Pollution Monitor: Soil Pollution and iii. Green Belt Development of Industries,
+        "Major involvement as one of the management and technical team lead to plan & conduct three NSQF level-6 short term courses of Green Skill Development Programme (GSDP) by MoEF&CC: i. Pollution Monitors: Air & Water, ii. Pollution Monitor: Soil Pollution and iii. Green Belt Development of Industries",
         "Article or content writing, creative graphic designing for thematic maps, posters, infographics, cover pages of newsletters and reports. Also active as an organiser to conduct various theme's webinar, competitions & events online to mark important flagship and environmental calendar days"
       ]
     },
@@ -93,8 +93,8 @@
       "endDate": "2011-07",
       "summary": "Summer training (2 months) at KDMIPE Campus, ONGC-Dehradun, IN",
       "highlights": [
-        "Digital Image Processing of Landsat (ETM+) imagery",
-        "Land use land Cover mapping and Change Detection process"
+        "Digital Image Processing of Landsat (ETM+) imagery and data interpretation of Survey of India Topographical sheets",
+        "Land use land Cover mapping and Change Detection process using ArcGIS and ERDAS Imagine software"
       ]
     },
     {
@@ -106,8 +106,8 @@
       "summary": "Indian Institute of Remote Sensing (IIRS) campus, Dehradun, IN",
       "highlights": [
         "Submitted Thesis title- DEM Generation Using Satellite Stereo Data for a part of Patna District, Bihar",
-        "Generation of IRS-Cartosat-1 Panchromatic Stereo Digital Elevation Model (DEM) dataset",
-        "LPS Manager, Leica Photogrammetric Suite, ERDAS Imagine software used"
+        "Generation of IRS-Cartosat-1 Panchromatic Stereo Digital Elevation Model (DEM) dataset model",
+        "LPS Manager, Leica Photogrammetric Suite and ERDAS Imagine software used"
       ]
     }
   ],
