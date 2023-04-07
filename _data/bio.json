@@ -6,7 +6,7 @@
     "email": "farswansandhya@gmail.com",
     "phone": "",
     "website": "https://sandhyafarswan.github.io",
-    "summary": "Hi! I’m a geospatial analyst and working for ENVIS scheme by Ministry of Environment, Forest & Climate Change (MoEF&CC) at School of Environmental Sciences, Jawaharlal Nehru University",
+    "summary": "Hi! I’m a geospatial analyst and working at School of Environmental Sciences, Jawaharlal Nehru University under ENVIS scheme by Ministry of Environment, Forest & Climate Change (MoEF&CC)",
     "location": { "address": "JNU New Campus", "postalCode": "110067", "city": "New Delhi", "countryCode": "IN" },
     "profiles": [
       { "network": "github", "username": "sandhyafarswan", "url": "http://github.com/sandhyafarswan" },
@@ -57,15 +57,18 @@
   ],
   "work": [
     {
-      "company": "School of Environmental Sciences, ENVIS",
+      "company": "School of Environmental Sciences, JNU",
       "position": "Information Officer",
       "website": "http://jnuenvis.nic.in/",
       "startDate": "2015-07",
       "endDate": "Present",
       "summary": "Working on Thematic area and mandates- Geodiversity and Impact on Environment",
       "highlights": [
-        "Geospatial data collection, compilation, storage, processing and GIS mapping",
-        "information dissemination of spatial or non-spatial data related to environment and climate change"
+        "Working mainly as a GIS specialist for a national scheme - Environmental Information, Awareness, Capacity Building & Livelihood Programme (EIACP), erstwhile ENVIS funded by the MoEF&CC thematic areas/mandates",
+        "I am responsible for the geospatial/non-spatial data analysis related matters such as collection, compilation, data gap identification, storage, processing, mapping and information dissemination on environmental parameters and mandates",
+        "Facilitate and coordinate with various stakeholders for the primary or secondary data/information/ maps available with relevant government departments that would be used as base information and manage all tasks related to the maintenance, technical aspects and updation of the Geospatial & Non-spatial Database",
+        "Major involvement as one of the management and technical team lead to plan & conduct three NSQF level-6 short term courses of Green Skill Development Programme (GSDP) by MoEF&CC: i. Pollution Monitors: Air & Water, ii. Pollution Monitor: Soil Pollution and iii. Green Belt Development of Industries,
+        "Article or content writing, creative graphic designing for thematic maps, posters, infographics, cover pages of newsletters and reports. Also active as an organiser to conduct various theme's webinar, competitions & events online to mark important flagship and environmental calendar days"
       ]
     },
     {
@@ -74,10 +77,10 @@
       "website": "",
       "startDate": "2012-07",
       "endDate": "2013-07",
-      "summary": "Study of a river basin in western Himalayan valley",
+      "summary": "Study of a Parvati river basin in western Himalayan valley of Himachal Pradesh",
       "highlights": [
-        "GIS mapping of Land use land cover, change detection and geomorphology",
-        "Watershed analysis using DEM dataset"
+        "Worked under the project funded by Digital Terrain modeling Research Laboratory (DTRL), Defence Research and Development Organization (DRDO), Ministry of Defence on - ‘Scale variant Geo-spatial Feature Mapping using Spatio-Temporal data In and Around Parvati Basin, Himachal Pradesh’.",
+        "Land use land cover mapping, Change Detection, Watershed and geomorphology analysis was done using ArcGIS, Erdas Imagine and Field survey and Landsat and ASTER DEM satellite datasets used to delineate raster, vector shapefiles and mapping. Field survey done in the valley to validate the landform ground truth surface features for geomorphology and land use land cover mapping."
       ]
     }
   ],
