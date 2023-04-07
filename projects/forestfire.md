@@ -22,9 +22,10 @@ This review work was done To study Forest fire causing the loss of carbon seques
 
 <img class="img-fluid" src="../img/forestfire.png" alt="" />
 
-Our results also indicated that, in the future, carbon stock loss may increase, with an increase in the percentage of the burned area as well as with the frequency of forest fires. To minimize loss, the interlinkages between forest fire incidents, fuel type and its availability, and climatology need to be explored.
-In Himalayan forest, carbon is predominately stored in soil organic matter and aboveground biomass, with smaller amounts found in belowground biomass, litter, and deadwood. 
+Our results also indicated that, in the future, carbon stock loss may increase, with an increase in the percentage of the burned area as well as with the frequency of forest fires. To minimize loss, the interlinkages between forest fire incidents, fuel type and its availability, and climatology need to be explored. In Himalayan forest, carbon is predominately stored in soil organic matter and aboveground biomass, with smaller amounts found in belowground biomass, litter, and deadwood. 
+
 The sum of the carbon pools on the forest floor is equivalent to forest biomass carbon stock. Based on this, an assumption was made that surface forest fires mostly consume a portion of aboveground biomass (AGB), which consists of dry leaves, twigs, dry litter, and dry herbaceous grasses. Hence, AGB represents the forest floor carbon pool that is vulnerable to fire; however, the total forest carbon stock that is vulnerable to fire includes AGB, deadwood, and litter. Aboveground biomass stored in branches and boles is not usually consumed during surface fires.
+
 Loss of forest biomass carbon stock in forest fire incidents during the fire season was calculated by multiplying the average forest floor fuel load by forest burned area per year. For analysis of climate attributes, India Meteorology Data (IMD) weather station data were provided by Prof. A.P. Dimri and were analyzed and correlated to the fire counts each year. Some fire risk indices were generated using climate data to find out the estimated range for favorable/non-favorable conditions to forest fire that indicated the loss of forest biomass carbon stocks due to deposited biomass on the forest floor.
 
 <img class="img-fluid" src="../img/fireclimate.png" alt="" />
