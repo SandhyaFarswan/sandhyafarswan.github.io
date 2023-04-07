@@ -7,8 +7,8 @@ date: 2023
 published: true
 labels:
   - Carbon Stock
-  - Climate Chaneg
-  - Forest biomass
+  - Climate Change
+  - Forest Biomass
   - Forest Fire
   - Himalayas
 summary: "Assessment on forest fire events, climate attributes and forest biomass Carcbon stock loss due to forest fire from 2002 to 2019 were carried out in central Himalayas of India"
