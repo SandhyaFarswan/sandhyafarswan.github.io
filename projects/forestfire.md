@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/forestfire.png
+image: img/fireuk.png
 title: "Assessment of forest fires & climate attributes interaction in the Himalayas"
 date: 2023
 published: true
@@ -15,12 +15,12 @@ summary: "Assessment on forest fire events, climate attributes and forest biomas
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/fireuk.png" class="img-thumbnail" >
+  <img width="300px" src="../img/cpool.png" class="img-thumbnail" >
 </div>
 
 This review work was done To study Forest fire causing the loss of carbon sequestered in forest biomass due to climate change with the help of fire counts from MODIS and VIIRS satellite data were analyzed (2002-2019) during the peak fire season (April-June months). Under the guidance of <a href="https://www.jnu.ac.in/content/ushamina">Prof. Usha Mina</a> that helped to understand the quantification of forest biomass carbon stock eqvivalent to sum of the carbon pools on the forest floor (aboveground biomass + deadwood + litter considered for analysis). Also surface fuel content per unit area (ton/ha) collected from secondary data for different predominant forest types like sal, mixed and moist forest. Then surface fuel load in forest and total burnt forest area were further helpful to calculate the approximate carbon loss in forest biomass. 
 
-<img class="img-fluid" src="../img/cpool.png" alt="" />
+<img class="img-fluid" src="../img/forestfire.png" alt="" />
 
 Our results also indicated that, in the future, carbon stock loss may increase, with an increase in the percentage of the burned area as well as with the frequency of forest fires. To minimize loss, the interlinkages between forest fire incidents, fuel type and its availability, and climatology need to be explored.
 In Himalayan forest, carbon is predominately stored in soil organic matter and aboveground biomass, with smaller amounts found in belowground biomass, litter, and deadwood. 
