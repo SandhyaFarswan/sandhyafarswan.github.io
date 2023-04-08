@@ -11,7 +11,7 @@ labels:
   - Forest Biomass
   - Forest Fire
   - Himalayas
-summary: "Assessment on forest fire events, climate attributes and forest biomass Carcbon stock loss due to forest fire from 2002 to 2019 were carried out in central Himalayas of India"
+summary: "Assessment on forest fire events, climate attributes and forest biomass Carbon stock loss due to forest fire from 2002 to 2019 were carried out in central Himalayas of India"
 ---
 
 <div class="text-center p-4">
