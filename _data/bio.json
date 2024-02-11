@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sandhya Farswan",
-    "label": "Information Officer, <a href=\"http://jnuenvis.nic.in/\">Environmental Information System (ENVIS)</a>",
+    "label": "Programme Officer, <a href=\"http://jnuenvis.nic.in/\"> Environmental Information Awareness Capacity Building and Livelihood Programme (EIACP) </a>",
     "picture": "https://github.com/sandhyafarswan.png",
     "email": "farswansandhya@gmail.com",
     "phone": "",
@@ -35,7 +35,7 @@
       "keywords": [ "GRADISTAT", "R studio (beginner)", "Python (beginner)", "Adobe Illustrator (beginner)" ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "Hemwati Nandan Bahuguna Garhwal University, Uttarakhand, IN",
       "area": "Remote Sensing and GIS applications",
@@ -107,7 +107,7 @@
       "highlights": [
         "To accomplish the assigned tasks and action targets under project- Community-managed Disaster Risk Reduction (CMDRR), the identified solution measures integrated with the organic agricultural value chain and livelihood activities done in the remote Himalayan valleys, in 5 districts of Uttarakhand, India",
         "Watershed analysis, land use land cover identification was done for the Jakhnoli valley of Rudraprayag district as a pilot project using remote sensing and GIS applications to understand the topography and resources",
-        "Activities like extensive field survey, questionnaire, DRR sensitization, participatory rural appraisal (PRA), training, capacity building and monitoring various sites in terrain mountainous region to meet needs of the villagers, local community and various stakeholders. Target stakeholders were farmers; especially women; backbone of mountain agriculture and school students"
+        "Activities like extensive field survey, questionnaire, DRR sensitization, participatory rural appraisal (PRA), training, capacity building and monitoring various sites in terrain mountainous region to meet needs of the villagers, local community and various stakeholders. Target stakeholders were farmers; especially women; the backbone of mountain agriculture and school students"
       ]
     }
   ],
@@ -143,37 +143,37 @@
       "title": "Producing Climate Information for National Adaptation Planning",
       "date": "July 12, 2022",
       "awardee": "The United Nations Institute for Training and Research (UNITAR) & the World Meteorological Organization (WMO)",
-      "summary": "Successfully completed the course developed by UNITAR, WMO and Global Framework for Climate Services (GFCS) in the context of a wider training package on Integrating Climate Risk Information into NAPs with module learning tracks"
+      "summary": "Completed the course developed by UNITAR, WMO and Global Framework for Climate Services (GFCS) in the context of a wider training package on Integrating Climate Risk Information into NAPs with module learning tracks"
     },
     {
       "title": "Geospatial Information Technology (GIT) in Fragile Contexts",
       "date": "July 05, 2022",
       "awardee": "The United Nations Institute for Training and Research (UNITAR)",
-      "summary": "The training course developed by the Operational Satellite Applications Programme (UNOSAT) of the UNITAR as part of the Earth Observation for Sustainable Development- Fragility, Conflict and Security project funded by the European Space Agency. The course modules have practical introduction on GIT in states affected by fragility, with a focus on remote sensing."
+      "summary": "The training course developed by the Operational Satellite Applications Programme (UNOSAT) of the UNITAR as part of the Earth Observation for Sustainable Development- Fragility, Conflict and Security project funded by the European Space Agency. The course modules have a practical introduction on GIT in states affected by fragility, with a focus on remote sensing."
     },
     {
       "title": "Machine Learning and Big Data Analytics- Application to Remote Sensing",
       "date": "August 19 - 20, 2019",
       "awardee": "Sikkim University, India",
-      "summary": "Particpated in workshop by IEEE Geoscience and Remote Sensing Society to understand theoretical and practical insights on different aspects of Machine learning, tools to address the issues pertaining to remotely sensed data and Big Data Analysis"
+      "summary": "Participated in the workshop by IEEE Geoscience and Remote Sensing Society to understand theoretical and practical insights on different aspects of Machine learning, tools to address the issues about remotely sensed data and Big Data Analysis"
     },
      {
       "title": "Artificial Intelligence in Governance and Disaster Management",
       "date": "March 11 - 13, 2019",
       "awardee": "Special Centre for Disaster Research, Jawaharlal Nehru University",
-      "summary": "Participated in this global symposium to gainknowledge of AI in a preliminary understanding speeds up mapping, geographical, human vulnerabilities and early warning systems"
+      "summary": "Participated in this global symposium to gain knowledge of AI in a preliminary understanding speeds up mapping, geographical, human vulnerabilities and early warning systems"
     },
     {
       "title": "Google Earth Engine Technical Workshop",
       "date": "February 23, 2018",
       "awardee": "Google India",
-      "summary": "Participated in hands-on technical training on Google’s Earth Engine Platform in GIS & Remote Sensing for analysis and visualization of geographical data sets at School of Environmental Sciences, Jawaharlal Nehru University."
+      "summary": "Participated in hands-on technical training on Google’s Earth Engine Platform in GIS & Remote Sensing for analysis and visualization of geographical data sets at the School of Environmental Sciences, Jawaharlal Nehru University."
     },
     {
       "title": "Glaciers and Water Resource Management",
       "date": "July 25 – 31, 2016",
       "awardee": "School of Environmental Sciences, Jawaharlal Nehru University",
-      "summary": "Participated in short term training and hands-on practical course by Global Initiative on Academic Network course (GIAN), Ministry of Human Resource & Development (MHRD), Govt. of India"
+      "summary": "Participated in short-term training and hands-on practical course by Global Initiative on Academic Network course (GIAN), Ministry of Human Resource & Development (MHRD), Govt. of India"
     }
   ],
   "references": [
