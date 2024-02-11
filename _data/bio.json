@@ -6,8 +6,8 @@
     "email": "farswansandhya@gmail.com",
     "phone": "",
     "website": "https://sandhyafarswan.github.io",
-    "summary": "Hi! I’m a geospatial analyst and working at School of Environmental Sciences, Jawaharlal Nehru University under ENVIS scheme by Ministry of Environment, Forest & Climate Change (MoEF&CC)",
-    "location": { "address": "JNU New Campus", "postalCode": "110067", "city": "New Delhi", "countryCode": "IN" },
+    "summary": "Hi! I’m a geospatial analyst. Currently working as Programme Officer at School of Environmental Sciences, Jawaharlal Nehru University under EIACP scheme by Ministry of Environment, Forest & Climate Change (MoEF&CC)",
+    "location": { "address": "JNU New Campus", "postalCode": "110 067", "city": "New Delhi", "countryCode": "IN" },
     "profiles": [
       { "network": "github", "username": "sandhyafarswan", "url": "http://github.com/sandhyafarswan" },
       { "network": "linkedin", "username": "Sandhya Farswan", "url": "http://linkedin.com/in/sandhya-farswan-21a80135" },
@@ -56,19 +56,33 @@
     }
   ],
   "work": [
+  {
+      "company": "School of Environmental Sciences, JNU",
+      "position": "Programme Officer",
+      "website": "http://jnuenvis.nic.in/",
+      "startDate": "2023-12",
+      "endDate": "Present",
+      "summary": "Working on Thematic area and mandates- Geodiversity and Impact on Environment",
+      "highlights": [
+        "Working for a national scheme - Environmental Information, Awareness, Capacity Building & Livelihood Programme (EIACP), erstwhile ENVIS funded by the MoEF&CC",
+        "I am responsible for developing value-added information and knowledge products on thematic areas and mandates",
+        "To organise mega or regional events and outreach activities on Mission Lifestyle for Environment (LiFE) to promote sustainable and climate-friendly lifestyles",
+        "To conduct three NSQF level-6 short-term courses of Green Skill Development Programme (GSDP) by MoEF&CC: i. Pollution Monitors: Air & Water, ii. Pollution Monitor: Soil Pollution and iii. Green Belt Development of Industries"
+      ]
+    },
     {
       "company": "School of Environmental Sciences, JNU",
       "position": "Information Officer",
       "website": "http://jnuenvis.nic.in/",
       "startDate": "2015-07",
-      "endDate": "Present",
+      "endDate": "2023-12",
       "summary": "Working on Thematic area and mandates- Geodiversity and Impact on Environment",
       "highlights": [
-        "Working mainly as a GIS specialist for a national scheme - Environmental Information, Awareness, Capacity Building & Livelihood Programme (EIACP), erstwhile ENVIS funded by the MoEF&CC",
+        "Worked mainly as a GIS specialist for a national scheme - Environmental Information, Awareness, Capacity Building & Livelihood Programme (EIACP), erstwhile ENVIS funded by the MoEF&CC",
         "I am responsible for the geospatial/non-spatial data analysis related matters such as collection, compilation, data gap identification, storage, processing, mapping and information dissemination on environmental parameters and mandates",
         "Facilitate and coordinate with various stakeholders for the primary or secondary data/information/ maps available with relevant government departments that would be used as base information and manage all tasks related to the maintenance, technical aspects and updation of the Geospatial & Non-spatial Database",
-        "Major involvement as one of the management and technical team lead to plan & conduct three NSQF level-6 short term courses of Green Skill Development Programme (GSDP) by MoEF&CC: i. Pollution Monitors: Air & Water, ii. Pollution Monitor: Soil Pollution and iii. Green Belt Development of Industries",
-        "Article or content writing, creative graphic designing for thematic maps, posters, infographics, cover pages of newsletters and reports. Also active as an organiser to conduct various theme's webinar, competitions & events online to mark important flagship and environmental calendar days"
+        "Major involvement as one of the management and technical team leads to plan & conduct three NSQF level-6 short-term courses of Green Skill Development Programme (GSDP) by MoEF&CC: i. Pollution Monitors: Air & Water, ii. Pollution Monitor: Soil Pollution and iii. Green Belt Development of Industries",
+        "Article or content writing, creative graphic designing for thematic maps, posters, infographics, cover pages of newsletters and reports. Also active as an organiser to conduct various theme's webinars, competitions & events online to mark important flagship and environmental calendar days"
       ]
     },
     {
